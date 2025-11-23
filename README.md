@@ -3,15 +3,15 @@ The application provides essential inventory management tools:
 
 Add/Remove Items: Create new items or delete existing ones by ID.
 
-Stock Control: Increase or decrease stock quantity (Option 5).
+Stock Control: Increase or decrease stock quantity 
 
-Query & Search: Check availability by ID (Option 2) or search for product varieties by name and detail (Option 3).
+Query & Search: Check availability by ID  or search for product varieties by name and detail 
 
-List All: View the complete inventory list (Option 4).
+List All: View the complete inventory list
 
-🚀 Getting Started
+Getting Started
 Prerequisites
-Python 3.x
+Python
 
 Execution
 Clone the repository and navigate to the project directory.
@@ -23,7 +23,7 @@ Run the main file from your terminal:
 Bash
 
 python main.py
-📂 Project Structure
+ Project Structure
 The code is organized into modules to separate concerns:
 
 File Name	Responsibility
@@ -33,10 +33,10 @@ operations.py	Handles Add and Remove item logic.
 stock_management.py	Handles Stock Update (Increase/Decrease) logic.
 query_and_display.py	Handles Check Availability, Search, and List logic.
 
-📝 Example Usage
+Example Usage
 Run the program and choose an option:
 
---- 📖 Stationery Inventory Manager (Basic Mode) ---
+--- stationery Inventory Manager (Basic Mode) ---
 ...
 5. Update Stock (Increase/Decrease)
 ...
